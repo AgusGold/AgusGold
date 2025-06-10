@@ -1,16 +1,32 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Agustín Goldstein
 
-<!--
-**AgusGold/AgusGold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Programador Full Stack en formación**, con enfoque en desarrollo web, aplicaciones y backend.  
+Experiencia práctica en plataformas CRM como **Salesforce** y conocimientos complementarios en diversas tecnologías.  
+Actualmente cursando la **Licenciatura en Gestión de Tecnología de la Información** en **UADE**.
 
-Here are some ideas to get you started:
+Me encantaría seguir aprendiendo en equipos donde pueda contribuir y mejorar como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ Habilidades Técnicas
+- Python
+- Java
+- HTML / CSS / JavaScript
+- Apex
+- Salesforce
+
+### ✨ Control de Versiones
+- Git
+- GitHub
+
+### ✨ Sistemas Operativos
+- Windows
+- iOS
+
+---
+
+📫 **Podés encontrarme en [LinkedIn](https://www.linkedin.com/in/agustingoldstein/)**
+
+---
+
+> ⭐ ¡Gracias por visitar mi perfil! ⭐
